@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)
-![Database](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
-
 **An end-to-end SQL Data Analytics Project using the Olist Brazilian E-Commerce Dataset**
 
 </div>
