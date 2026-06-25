@@ -63,6 +63,29 @@ The dataset contains information about:
 
 ---
 
+## 📥 Dataset Information
+
+This project uses the **Olist Brazilian E-Commerce Public Dataset**, which is publicly available on Kaggle.
+
+The original dataset is **not included in this repository** due to its size.
+
+The dataset contains the following tables:
+
+- Customers
+- Orders
+- Order Items
+- Payments
+- Products
+- Sellers
+- Geolocation
+- Product Category Translation
+
+To reproduce this project:
+
+1. Download the dataset from Kaggle.
+2. Import the CSV files into MySQL.
+3. Execute the SQL queries provided in this project.
+4. Compare the results with the screenshots included in this repository.
 # 🧠 SQL Concepts Covered
 
 ✔ SELECT
